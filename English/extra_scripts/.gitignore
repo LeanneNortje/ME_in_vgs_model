@@ -1,0 +1,16 @@
+*.wav
+*.csv
+*.jpg
+*.npz
+*.ckpt
+**/__pycache__/*
+**/__pycache__/*.pyc
+.ipynb_checkpoints/
+data/
+model_metadata/
+old_model_metadata/
+pretrained/
+pretrained_cpc/
+results/episode_data.npz
+results/embeddings/
+!results/balanced_per_keyword_results.npz

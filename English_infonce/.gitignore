@@ -1,0 +1,14 @@
+data/
+model_metadata/
+pretrained/
+pretrained_cpc/
+results/
+
+*.wav
+*.jpg
+*.npz
+*.ckpt
+**.pdf
+**.csv
+*/__pycache__/*
+*/__pycache__/*.pyc
