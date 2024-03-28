@@ -1,6 +1,6 @@
 data/
 model_metadata/**/*.pt
-model_metadata/tensorboard/
+model_metadata/**/tensorboard/
 pretrained/
 pretrained_cpc/
 results/
