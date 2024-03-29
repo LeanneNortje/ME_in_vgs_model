@@ -40,9 +40,33 @@ If you want to use the model checkpoints, download the checkpoints given in the 
       <td><ul><li>- [x] </li></ul></td>
       <td>c</td>
     </tr>
+    <tr>
+      <td>MattNet using the InfoNCE loss</td>td
+      <td><ul><li>- [x] </li></ul></td>
+      <td><ul><li>- [x] </li></ul></td>
+      <td>c</td>
+    </tr>
   </tbody>
 </table>
 
+<table>
+  <thead>
+    <tr>
+      <th>Model</th>
+      <th>Supervised AlexNet warmstart</th>
+      <th>Self-supervised CPC warmstart</th>
+      <th>Name</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>MattNet</td>
+      <td><ul><li>- [x] </li></ul></td>
+      <td><ul><li>- [x] </li></ul></td>
+      <td>a</td>
+    </tr>
+  </tbody>
+</table>
 ```bash
 ├── model_metadata
 │   ├── <model_name>
