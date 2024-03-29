@@ -26,7 +26,7 @@ MattNet | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | a
     </tr>
     <tr>
       <td><ul><li>- [x] </li></ul></td>
-      <td><ul><li>- [ ] </li></ul>></td>
+      <td><ul><li>- [ ] </li></ul></td>
       <td>b</td>td
     </tr>
     <tr>
