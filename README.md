@@ -25,12 +25,14 @@ MattNet | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | a
       <td>a</td>
     </tr>
     <tr>
-      <td>7</td>
+      <td><ul><li>- [x] </li></ul></td>
+      <td><ul><li>- [ ] </li></ul>></td>
+      <td>b</td>td
     </tr>
     <tr>
       <td><ul><li>- [x] </li></ul></td>
       <td><ul><li>- [ ] </li></ul></td>
-      <td>b</td>
+      <td>c</td>
     </tr>
   </tbody>
 </table>
