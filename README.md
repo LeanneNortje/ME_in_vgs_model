@@ -36,8 +36,8 @@ If you want to use the model checkpoints, download the checkpoints given in the 
     <tr>
       <td><ul><li>- [x] </li></ul></td>
       <td><ul><li>- [x] </li></ul></td>
-      <td>d</td>
-      <td>d</td>
+      <td>f613809f5c</td>
+      <td>English_f613809f5c_1, English_f613809f5c_2, English_f613809f5c_3, English_f613809f5c_4, English_f613809f5c_5</td>
     </tr>
     <tr>
       <td>MattNet using a hinge loss</td>td
