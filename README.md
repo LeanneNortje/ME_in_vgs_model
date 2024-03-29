@@ -1,8 +1,13 @@
-# Data
+# Visually grounded speech models have a mutual exclusivity bias
 
-To get the 
+Here we give the source code for the paper entitled **Visually grounded speech models have a mutual exclusivity bias** which is accepted to TACL in 2024.
+Until the official MIT Press publication is available, the paper can be found [here](https://arxiv.org/abs/2403.13922).
 
-# Preprocessing
+## Data
+
+To get the correct ```data/``` folder required to train and test a MattNet model used to evaluate the ME bias, go [here](https://github.com/LeanneNortje/Speech-image_ME_dataset/tree/main).
+
+## Preprocessing
 
 ```
 cd preprocessing/
@@ -10,7 +15,7 @@ python preprocess_english_dataset.py
 cd ../
 ```
 
-# Using pretrained model checkpoints
+## Using pretrained model checkpoints
 
 If you want to use the model checkpoints, download the checkpoints given in the release and extract the checkpoints in the appropriate model folders.
 <!---The following table gives the names in the releases that corresponds to the names in the ```model_metadata``` folder.-->
@@ -101,7 +106,7 @@ Take care to follow the exact directory layout given here:
   </tbody>
 </table>
 
-# Model training
+## Model training
 
 To run a new model:
 
@@ -127,7 +132,7 @@ For example, to restore from epoch 8, run:
 python run.py --resume --restore-epoch 7
 ```
 
-# Model testing
+## Evaluations
 
 To evaluate familiar-<ins>novel</ins>:
 ```
