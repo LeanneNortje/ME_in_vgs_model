@@ -28,9 +28,9 @@ MattNet | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | a
       <td>7</td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>3</td>
-      <td colspan="2">5</td>
+      <td><ul><li>- [x] </li></ul></td>
+      <td><ul><li>- [ ] </li></ul></td>
+      <td>b</td>
     </tr>
   </tbody>
 </table>
