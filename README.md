@@ -28,14 +28,14 @@ If you want to use the model checkpoints, download the checkpoints given in the 
       <td><ul><li>- [ ] </li></ul></td>
       <td><ul><li>- [x] </li></ul></td>
       <td>c</td>
-     </tr>
+    </tr>
     <tr>
       <td><ul><li>- [x] </li></ul></td>
       <td><ul><li>- [x] </li></ul></td>
       <td>d</td>
-     </tr>
+    </tr>
     <tr>
-      <td>MattNet using a hinge loss
+      <td>MattNet using a hinge loss</td>td
       <td><ul><li>- [x] </li></ul></td>
       <td><ul><li>- [x] </li></ul></td>
       <td>c</td>
