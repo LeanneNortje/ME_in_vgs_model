@@ -93,6 +93,41 @@ Take care to follow the exact directory layout given here:
 
 # Preprocessing
 
+```
+cd preprocessing/
+python preprocess_english_dataset.py
+cd ../
+```
+
 # Model training
 
+To run a new model:
+
+```
+python run.py
+```
+
+To resume training:
+
+```
+python run.py --resume
+```
+
+
+To resume training from a specific epoch:
+
+```
+python run.py --resume --restore-epoch <epoch_you_want_to_restore_from_minus_one>
+```
+For example, to restore from epoch 8, run:
+
+```
+python run.py --resume --restore-epoch 7
+```
+
 # Model testing
+
+To evaluate familiar-<ins>novel</ins>
+```
+python test_ME.py
+```
