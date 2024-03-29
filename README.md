@@ -127,7 +127,12 @@ python run.py --resume --restore-epoch 7
 
 # Model testing
 
-To evaluate familiar-<ins>novel</ins>
+To evaluate familiar-<ins>novel</ins>:
+```
+python test_ME.py
+```
+
+To evaluate familiar-<ins>novel</ins>*:
 ```
 python test_ME.py
 ```
