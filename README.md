@@ -3,8 +3,9 @@
 ```bash
 ├── model_metadata
 │   ├── model_name
-│   │   ├── models
-│   │   ├── args.pkl
-│   │   ├── params.json
-│   │   ├── training_metadata.json
+│   │   ├── model_instances
+│   │   │   ├── models
+│   │   │   ├── args.pkl
+│   │   │   ├── params.json
+│   │   │   ├── training_metadata.json
 ```
