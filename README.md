@@ -11,7 +11,7 @@ MattNet | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | a
 <table>
   <thead>
     <tr>
-      <th colspan="2">Model</th>
+      <th>Model</th>
       <th>Self-supervised AlexNet warmstart</th>
       <th>Self-supervised CPC warmstart</th>
       <th>Name</th>
@@ -19,7 +19,7 @@ MattNet | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | a
   </thead>
   <tbody>
     <tr>
-      <td rowspan="3">1</td>
+      <td rowspan="4">MattNet</td>
       <td rowspan="2">1</td>
       <td rowspan="2" colspan="2">2</td>
       <td>6</td>
