@@ -9,7 +9,8 @@ If you want to use the model checkpoints, download the checkpoints given in the 
       <th>Model</th>
       <th>Self-supervised AlexNet warmstart</th>
       <th>Self-supervised CPC warmstart</th>
-      <th>Name</th>
+      <th><model_name></th>
+      <th>Release name</th>
     </tr>
   </thead>
   <tbody>
