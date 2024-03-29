@@ -91,6 +91,8 @@ Take care to follow the exact directory layout given here:
 
 # Data
 
+# Preprocessing
+
 # Model training
 
 # Model testing
