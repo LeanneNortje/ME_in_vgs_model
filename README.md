@@ -2,6 +2,18 @@
 
 If you want to use the model checkpoints, download the checkpoints given in the release and extract the checkpoints in the appropriate model folders.
 <!---The following table gives the names in the releases that corresponds to the names in the ```model_metadata``` folder.-->
+The next two tables contain more information. 
+Take care to follow the exact directory layout given here:
+
+```bash
+├── model_metadata
+│   ├── <model_name>
+│   │   ├── <model_instance>
+│   │   │   ├── models
+│   │   │   ├── args.pkl
+│   │   │   ├── params.json
+│   │   │   ├── training_metadata.json
+```
 
 <table>
   <thead>
@@ -77,12 +89,8 @@ If you want to use the model checkpoints, download the checkpoints given in the 
   </tbody>
 </table>
 
-```bash
-├── model_metadata
-│   ├── <model_name>
-│   │   ├── <model_instance>
-│   │   │   ├── models
-│   │   │   ├── args.pkl
-│   │   │   ├── params.json
-│   │   │   ├── training_metadata.json
-```
+# Data
+
+# Model training
+
+# Model testing
