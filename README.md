@@ -67,6 +67,7 @@ If you want to use the model checkpoints, download the checkpoints given in the 
     </tr>
   </tbody>
 </table>
+
 ```bash
 ├── model_metadata
 │   ├── <model_name>
