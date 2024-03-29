@@ -1,3 +1,13 @@
+# Data
+
+# Preprocessing
+
+```
+cd preprocessing/
+python preprocess_english_dataset.py
+cd ../
+```
+
 # Using pretrained model checkpoints
 
 If you want to use the model checkpoints, download the checkpoints given in the release and extract the checkpoints in the appropriate model folders.
@@ -89,16 +99,6 @@ Take care to follow the exact directory layout given here:
   </tbody>
 </table>
 
-# Data
-
-# Preprocessing
-
-```
-cd preprocessing/
-python preprocess_english_dataset.py
-cd ../
-```
-
 # Model training
 
 To run a new model:
@@ -133,6 +133,21 @@ python test_ME.py
 ```
 
 To evaluate familiar-<ins>novel</ins>*:
+```
+python test_ME_mismatched_novels.py
+```
+
+To evaluate novel-<ins>novel</ins>:
+```
+python novel_novel_test.py
+```
+
+To evaluate familiar-<ins>familiar</ins>:
+```
+python test_ME.py
+```
+
+To evaluate <ins>familiar</ins>-novel:
 ```
 python test_ME.py
 ```
