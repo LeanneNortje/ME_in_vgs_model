@@ -2,11 +2,6 @@
 
 If you want to use the model checkpoints, download the checkpoints given in the release and extract the checkpoints in the appropriate model folders.
 <!---The following table gives the names in the releases that corresponds to the names in the ```model_metadata``` folder.-->
- 
-MattNet | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | a
-^^ | <ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | a
-^^ | <ul><li>- [ ] </li></ul> | <ul><li>- [x] </li></ul> | a
-^^ | <ul><li>- [x] </li></ul> | <ul><li>- [x] </li></ul> | a
 
 <table>
   <thead>
@@ -38,6 +33,12 @@ MattNet | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | a
       <td><ul><li>- [x] </li></ul></td>
       <td><ul><li>- [x] </li></ul></td>
       <td>d</td>
+     </tr>
+    <tr>
+      <td>MattNet using a hinge loss
+      <td><ul><li>- [x] </li></ul></td>
+      <td><ul><li>- [x] </li></ul></td>
+      <td>c</td>
     </tr>
   </tbody>
 </table>
