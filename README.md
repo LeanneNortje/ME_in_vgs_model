@@ -43,15 +43,15 @@ If you want to use the model checkpoints, download the checkpoints given in the 
       <td>MattNet using a hinge loss</td>td
       <td><ul><li>- [x] </li></ul></td>
       <td><ul><li>- [x] </li></ul></td>
-      <td>c</td>
-      <td>c</td>
+      <td>f613809f5c</td>
+      <td>English_hinge_loss_f613809f5c_1</td>
     </tr>
     <tr>
       <td>MattNet using the InfoNCE loss</td>td
       <td><ul><li>- [x] </li></ul></td>
       <td><ul><li>- [x] </li></ul></td>
-      <td>c</td>
-       <td>c</td>
+      <td>b4b77a981b</td>
+       <td>English_infonce_b4b77a981b_1</td>
     </tr>
   </tbody>
 </table>
@@ -71,8 +71,8 @@ If you want to use the model checkpoints, download the checkpoints given in the 
       <td>MattNet</td>
       <td><ul><li>- [x] </li></ul></td>
       <td><ul><li>- [x] </li></ul></td>
-      <td>a</td>
-      <td>a</td>
+      <td>44052e45b0</td>
+      <td>English_supervised_alexnet_44052e45b0_1</td>
     </tr>
   </tbody>
 </table>
