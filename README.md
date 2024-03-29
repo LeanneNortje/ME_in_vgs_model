@@ -18,8 +18,8 @@ If you want to use the model checkpoints, download the checkpoints given in the 
       <td rowspan="4">MattNet</td>
       <td><ul><li>- [ ] </li></ul></td>
       <td><ul><li>- [ ] </li></ul></td>
-      <td>a</td>
-      <td>a</td>
+      <td>a35ce3ce67</td>
+      <td>English_a35ce3ce67_1</td>
     </tr>
     <tr>
       <td><ul><li>- [x] </li></ul></td>
@@ -30,8 +30,8 @@ If you want to use the model checkpoints, download the checkpoints given in the 
     <tr>
       <td><ul><li>- [ ] </li></ul></td>
       <td><ul><li>- [x] </li></ul></td>
-      <td>c</td>
-      <td>c</td>
+      <td>601394a62b</td>
+      <td>English_601394a62b_1</td>
     </tr>
     <tr>
       <td><ul><li>- [x] </li></ul></td>
