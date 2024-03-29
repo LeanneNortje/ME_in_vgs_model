@@ -5,7 +5,7 @@ If you want to use the model checkpoints, download the checkpoints given in the 
 
 Model   | Self-supervised AlexNet warmstart    | Self-supervised CPC warmstart  | Name 
 ---    | ---   | ---   | ---    
-MattNet | <ul><li>- [x] </li></ul> | [x] | a
+MattNet | <ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | a
 
 ```bash
 ├── model_metadata
