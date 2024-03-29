@@ -24,8 +24,8 @@ If you want to use the model checkpoints, download the checkpoints given in the 
     <tr>
       <td><ul><li>- [x] </li></ul></td>
       <td><ul><li>- [ ] </li></ul></td>
-      <td>b</td>
-      <td>b</td>
+      <td>4294a4933e</td>
+      <td>English_4294a4933e_1</td>
     </tr>
     <tr>
       <td><ul><li>- [ ] </li></ul></td>
