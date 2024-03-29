@@ -2,9 +2,7 @@
 
 If you want to use the model checkpoints, download the checkpoints given in the release and extract the checkpoints in the appropriate model folders.
 <!---The following table gives the names in the releases that corresponds to the names in the ```model_metadata``` folder.-->
-
-Model   | Self-supervised AlexNet warmstart    | Self-supervised CPC warmstart  | Name 
----    | ---   | ---   | ---    
+ 
 MattNet | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | a
 ^^ | <ul><li>- [x] </li></ul> | <ul><li>- [ ] </li></ul> | a
 ^^ | <ul><li>- [ ] </li></ul> | <ul><li>- [x] </li></ul> | a
@@ -13,10 +11,10 @@ MattNet | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | a
 <table>
   <thead>
     <tr>
-      <th colspan="2">1</th>
-      <th>3</th>
-      <th>4</th>
-      <th>5</th>
+      <th colspan="2">Model</th>
+      <th>Self-supervised AlexNet warmstart</th>
+      <th>Self-supervised CPC warmstart</th>
+      <th>Name</th>
     </tr>
   </thead>
   <tbody>
