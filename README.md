@@ -112,6 +112,8 @@ Take care to follow the exact directory layout given here:
 
 ## Model training
 
+Various model parameters can be changed in ```configs/params.json```.
+
 To run a new model:
 
 ```
