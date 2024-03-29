@@ -3,6 +3,10 @@
 Here we give the source code for the paper entitled **Visually grounded speech models have a mutual exclusivity bias** which is accepted to TACL in 2024.
 Until the official MIT Press publication is available, the paper can be found [here](https://arxiv.org/abs/2403.13922).
 
+## Important note:
+
+The following instructions should be followed within each of the model folders (English, English_hinge_loss, English_infonce, English_supervised_alexnet).
+
 ## Data
 
 To get the correct ```data/``` folder required to train and test a MattNet model used to evaluate the ME bias, go [here](https://github.com/LeanneNortje/Speech-image_ME_dataset/tree/main).
