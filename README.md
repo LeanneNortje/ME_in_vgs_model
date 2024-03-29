@@ -21,8 +21,8 @@ MattNet | <ul><li>- [ ] </li></ul> | <ul><li>- [ ] </li></ul> | a
     <tr>
       <td rowspan="4">MattNet</td>
       <td><ul><li>- [ ] </li></ul></td>
-      <td rowspan="2" colspan="2">2</td>
-      <td>6</td>
+      <td><ul><li>- [ ] </li></ul></td>
+      <td>a</td>
     </tr>
     <tr>
       <td>7</td>
