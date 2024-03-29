@@ -19,20 +19,24 @@ If you want to use the model checkpoints, download the checkpoints given in the 
       <td><ul><li>- [ ] </li></ul></td>
       <td><ul><li>- [ ] </li></ul></td>
       <td>a</td>
+      <td>a</td>
     </tr>
     <tr>
       <td><ul><li>- [x] </li></ul></td>
       <td><ul><li>- [ ] </li></ul></td>
-      <td>b</td>td
+      <td>b</td>
+      <td>b</td>
     </tr>
     <tr>
       <td><ul><li>- [ ] </li></ul></td>
       <td><ul><li>- [x] </li></ul></td>
       <td>c</td>
+      <td>c</td>
     </tr>
     <tr>
       <td><ul><li>- [x] </li></ul></td>
       <td><ul><li>- [x] </li></ul></td>
+      <td>d</td>
       <td>d</td>
     </tr>
     <tr>
@@ -40,12 +44,14 @@ If you want to use the model checkpoints, download the checkpoints given in the 
       <td><ul><li>- [x] </li></ul></td>
       <td><ul><li>- [x] </li></ul></td>
       <td>c</td>
+      <td>c</td>
     </tr>
     <tr>
       <td>MattNet using the InfoNCE loss</td>td
       <td><ul><li>- [x] </li></ul></td>
       <td><ul><li>- [x] </li></ul></td>
       <td>c</td>
+       <td>c</td>
     </tr>
   </tbody>
 </table>
@@ -57,6 +63,7 @@ If you want to use the model checkpoints, download the checkpoints given in the 
       <th>Supervised AlexNet warmstart</th>
       <th>Self-supervised CPC warmstart</th>
       <th>Name</th>
+       <th>Release name</th>
     </tr>
   </thead>
   <tbody>
@@ -64,6 +71,7 @@ If you want to use the model checkpoints, download the checkpoints given in the 
       <td>MattNet</td>
       <td><ul><li>- [x] </li></ul></td>
       <td><ul><li>- [x] </li></ul></td>
+      <td>a</td>
       <td>a</td>
     </tr>
   </tbody>
